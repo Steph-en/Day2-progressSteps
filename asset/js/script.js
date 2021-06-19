@@ -14,7 +14,7 @@ next.addEventListener
                 currentActive = circles.length
             }
 
-            update()
+            update();
         }
     )
 
@@ -27,7 +27,7 @@ prev.addEventListener
                 currentActive = 1
             }
 
-            update()
+            update();
         }
     )
 
